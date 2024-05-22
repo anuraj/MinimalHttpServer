@@ -15,7 +15,7 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageVersion Condition="'$(BUILD_VERSION)' != ''">$(BUILD_VERSION)</PackageVersion>
     <PackageVersion Condition="'$(BUILD_VERSION)' == ''">1.0.0</PackageVersion>
-    <RepositoryUrl>https://github.com/anuraj/SimpleHttpServer</RepositoryUrl>
+    <RepositoryUrl>https://github.com/anuraj/MinimalHttpServer</RepositoryUrl>
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackAsTool>true</PackAsTool>
     <ToolCommandName>MinimalHttpServer</ToolCommandName>
