@@ -1,3 +1,3 @@
-# Simple Http Server
+# Minimal Http Server
 
-This is a simple http server built using ASP.NET Core which helps to serve static files.
+This is a simple http server built using .NET Core which helps to serve static files.
